@@ -20,6 +20,6 @@ from firstdata import urls
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('',include())
+    path('',include("firstdata.urls"))
 
 ]
