@@ -1,6 +1,7 @@
 # django
 ## Azure AD Authentication - https://www.youtube.com/watch?v=cy7Xk35iiGc
 ## Docs - https://django-auth-adfs.readthedocs.io/en/latest/install.html
+## AD - https://www.youtube.com/watch?v=t02stKhdxi4&t=1895s
 
 ## What all changes needed for Azure ADlogin
 ## Create App registration
