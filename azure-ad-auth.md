@@ -1,4 +1,5 @@
 ## How to configure Azure AD Authentication
+## https://django-auth-adfs.readthedocs.io/en/latest/azure_ad_config_guide.html
 
 ## Create App registration with web.
 ![image](https://github.com/user-attachments/assets/64dda176-199e-4ea3-9e8e-01e93074074a)
